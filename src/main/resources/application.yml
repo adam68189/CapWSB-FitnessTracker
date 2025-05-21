@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: CapWSB-FitnessTracker
+  profiles:
+    active: loadInitialData
+
+server:
+  port: 9090
